@@ -1,153 +1,153 @@
 PCT Code,PCT Description,Total expected - myocardial infarction,Observed - myocardial infarction,Standardised ratio,Standardised ratio lower 95% confidence interval,Standardised ratio upper 95% confidence interval,Additional risk of complication among people with diabetes
-Eng,England,"9,456","14,005",148,146,151,48.10%
-5A3,South Gloucestershire PCT,48,74,154,121,193,53.70%
-5A4,Havering PCT,15,15,103,57,169,2.53%
-5A5,Kingston PCT,8,11,132,66,236,31.80%
-5A7,Bromley PCT,58,107,186,152,225,86.00%
-5A8,Greenwich Teaching PCT,7,9,124,57,236,24.40%
-5A9,Barnet PCT,48,77,162,128,203,62.10%
-5AT,Hillingdon PCT,48,59,124,94,160,23.70%
-5C1,Enfield PCT,16,29,178,119,256,78.10%
-5C2,Barking & Dagenham PCT,42,59,141,107,182,40.80%
-5C3,City & Hackney Teaching PCT,44,66,148,115,189,48.30%
-5C4,Tower Hamlets PCT,40,65,162,125,206,61.70%
-5C5,Newham PCT,105,145,138,117,163,38.30%
-5C9,Haringey Teaching PCT,30,44,144,105,194,44.50%
-5CN,Herefordshire PCT,27,47,172,127,229,72.30%
-5CQ,Milton Keynes PCT,37,77,209,165,261,109%
-5D7,Newcastle PCT,43,67,156,121,199,56.30%
-5D8,North Tyneside PCT,65,94,146,118,178,45.70%
-5D9,Hartlepool PCT,13,20,152,93,235,52.00%
-5.00E+01,North Tees PCT,36,61,168,129,216,68.20%
-5EF,North Lincolnshire PCT,51,67,131,102,167,31.20%
-5EM,Nottingham City PCT,89,98,110,90,135,10.40%
-5ET,Bassetlaw PCT,26,41,160,115,217,60.20%
-5F1,Plymouth Teaching PCT,60,66,111,86,141,10.80%
-5F5,Salford PCT,63,103,164,134,198,63.60%
-5F7,Stockport PCT,74,108,147,120,177,46.60%
-5FE,Portsmouth City Teaching PCT,51,92,181,146,222,80.70%
-5FL,Bath & North East Somerset PCT,26,41,160,115,217,60.20%
-5GC,Luton PCT,51,85,166,132,205,65.60%
-5H1,Hammersmith & Fulham PCT,18,32,175,120,247,75.10%
-5H8,Rotherham PCT,58,94,161,130,197,61.20%
-5HG,"Ashton, Leigh & Wigan PCT",43,59,137,104,177,37.10%
-5HP,Blackpool PCT,36,47,130,95,173,29.90%
-5HQ,Bolton PCT,20,28,143,95,207,43.40%
-5HX,Ealing PCT,43,68,157,122,200,57.40%
-5HY,Hounslow PCT,42,66,157,121,200,56.90%
-5J2,Warrington PCT,52,84,163,130,201,62.70%
-5J4,Knowsley PCT,49,58,119,90,154,19.00%
-5J5,Oldham PCT,56,84,151,120,187,50.80%
-5J6,Calderdale PCT,48,88,185,149,228,85.20%
-5J9,Darlington PCT,17,24,143,92,213,43.40%
-5JE,Barnsley PCT,95,108,114,94,138,14.30%
-5JX,Bury PCT,42,67,160,124,203,59.90%
-5K3,Swindon PCT,34,51,152,113,200,52.10%
-5K5,Brent Teaching PCT,73,91,125,101,154,25.10%
-5K6,Harrow PCT,34,51,151,113,199,51.50%
-5K7,Camden PCT,21,47,225,165,299,125%
-5K8,Islington PCT,34,35,104,73,145,4.43%
-5K9,Croydon PCT,52,93,177,143,217,77.40%
-5KF,Gateshead PCT,66,96,146,118,178,45.60%
-5KG,South Tyneside PCT,60,90,150,121,185,50.40%
-5KL,Sunderland Teaching PCT,44,64,145,112,186,45.40%
-5KM,Middlesbrough PCT,39,67,170,132,216,70.40%
-5L1,Southampton City PCT,50,76,153,121,192,53.40%
-5L3,Medway PCT,61,68,112,87,142,12.40%
-5LA,Kensington & Chelsea PCT,9,23,264,167,396,164%
-5LC,Westminster PCT,19,36,189,133,262,89.30%
-5LD,Lambeth PCT,20,32,157,107,221,56.60%
-5LE,Southwark PCT,7,18,253,150,400,153%
-5LF,Lewisham PCT,33,43,131,94,176,30.60%
-5LG,Wandsworth PCT,42,52,125,93,164,24.70%
-5LH,Tameside & Glossop PCT,59,105,177,144,214,76.60%
-5LQ,Brighton & Hove City PCT,25,39,157,112,215,57.30%
-5M1,South Birmingham PCT,53,62,116,89,149,16.30%
-5M2,Shropshire County PCT,36,48,135,99,178,34.60%
-5M3,Walsall Teaching PCT,85,117,138,114,165,37.60%
-5M6,Richmond & Twickenham PCT,5,14,264,144,443,164%
-5M7,Sutton & Merton PCT,57,92,161,130,198,61.20%
-5M8,North Somerset PCT,51,79,154,122,192,54.30%
-5MD,Coventry Teaching PCT,59,83,142,113,176,41.70%
-5MK,Telford & Wrekin PCT,32,46,143,105,191,43.00%
-5MV,Wolverhampton City PCT,57,82,144,114,178,43.70%
-5MX,Heart of Birmingham Teaching PCT,77,118,154,127,184,53.80%
-5N1,Leeds PCT,171,254,148,131,168,48.30%
-5N2,Kirklees PCT,65,93,143,115,175,43.00%
-5N3,Wakefield District PCT,98,118,121,100,145,21.00%
-5N4,Sheffield PCT,120,175,146,125,169,46.00%
-5N5,Doncaster PCT,42,47,113,83,150,12.90%
-5N6,Derbyshire County PCT,123,180,146,125,169,45.80%
-5N7,Derby City PCT,78,104,133,109,161,33.20%
-5N8,Nottinghamshire County Teaching PCT,174,277,159,141,179,58.80%
-5N9,Lincolnshire Teaching PCT,210,300,143,127,160,43.10%
-5NA,Redbridge PCT,44,72,163,128,205,63.10%
-5NC,Waltham Forest PCT,45,52,115,86,150,14.60%
-5ND,County Durham PCT,111,141,127,107,150,27.50%
-5NE,Cumbria PCT,84,122,146,121,174,45.60%
-5NF,North Lancashire PCT,76,101,132,108,161,32.50%
-5NG,Central Lancashire PCT,118,168,143,122,166,42.60%
-5NH,East Lancashire Teaching PCT,74,115,155,128,187,55.40%
-5NJ,Sefton PCT,50,62,124,95,159,23.90%
-5NK,Wirral PCT,61,80,131,104,163,30.70%
-5NL,Liverpool PCT,72,91,127,102,156,26.80%
-5NM,Halton & St Helens PCT,66,81,123,98,153,23.20%
-5NN,Western Cheshire PCT,66,87,131,105,162,31.40%
-5NP,Central & Eastern Cheshire PCT,134,189,141,122,162,40.90%
-5NQ,"Heywood, Middleton & Rochdale PCT",48,96,201,163,245,101%
-5NR,Trafford PCT,30,46,153,112,204,52.70%
-5NT,Manchester PCT,47,70,149,116,188,48.70%
-5NV,North Yorkshire & York PCT,152,252,166,146,187,65.50%
-5NW,East Riding of Yorkshire PCT,55,87,158,126,194,57.60%
-5NX,Hull Teaching PCT,57,74,129,101,162,29.20%
-5NY,Bradford & Airedale Teaching PCT,124,223,180,157,205,79.60%
-5P1,South East Essex PCT,70,86,123,98,152,22.80%
-5P2,Bedfordshire PCT,57,89,156,125,191,55.50%
-5P5,Surrey PCT,143,222,155,135,177,55.00%
-5P6,West Sussex PCT,113,152,134,114,157,34.20%
-5P7,East Sussex Downs & Weald PCT,29,33,114,78,160,13.90%
-5P8,Hastings & Rother PCT,33,58,177,135,229,77.40%
-5P9,West Kent PCT,116,188,162,139,186,61.60%
-5PA,Leicestershire County & Rutland PCT,120,201,167,145,192,67.00%
-5PC,Leicester City PCT,123,146,119,100,140,18.70%
-5PD,Northamptonshire Teaching PCT,99,163,164,140,191,64.00%
-5PE,Dudley PCT,47,61,129,99,166,28.90%
-5PF,Sandwell PCT,81,113,139,115,167,39.00%
-5PG,Birmingham East & North PCT,78,111,143,118,172,43.00%
-5PH,North Staffordshire PCT,45,57,126,96,163,26.20%
-5PJ,Stoke on Trent PCT,59,80,136,108,169,35.60%
-5PK,South Staffordshire PCT,59,97,164,133,200,64.20%
-5PL,Worcestershire PCT,70,90,129,104,159,29.30%
-5PM,Warwickshire PCT,71,114,161,133,194,61.30%
-5PN,Peterborough PCT,37,60,163,125,210,63.30%
-5PP,Cambridgeshire PCT,109,177,163,140,189,62.70%
-5PQ,Norfolk PCT,113,190,169,146,194,68.70%
-5PR,Great Yarmouth & Waveney PCT,42,60,144,110,186,44.40%
-5PT,Suffolk PCT,145,222,153,134,175,53.30%
-5PV,West Essex PCT,37,50,134,99,176,33.60%
-5PW,North East Essex PCT,45,49,108,80,142,7.72%
-5PX,Mid Essex PCT,37,62,167,128,214,66.60%
-5PY,South West Essex PCT,78,107,136,112,165,36.50%
-5QA,Eastern & Coastal Kent PCT,143,203,142,123,163,41.70%
-5QC,Hampshire PCT,148,214,144,125,165,44.10%
-5QD,Buckinghamshire PCT,54,89,165,133,204,65.40%
-5QE,Oxfordshire PCT,71,122,172,143,206,72.50%
-5QF,Berkshire West PCT,46,64,138,106,177,38.30%
-5QG,Berkshire East PCT,61,99,162,132,198,62.50%
-5QH,Gloucestershire PCT,136,212,156,136,179,56.10%
-5QJ,Bristol PCT,78,112,144,118,173,43.90%
-5QK,Wiltshire PCT,64,100,155,126,189,55.00%
-5QL,Somerset PCT,76,120,158,131,189,58.20%
-5QM,Dorset PCT,69,119,173,144,208,73.40%
-5QN,Bournemouth & Poole PCT,77,102,132,108,161,32.30%
-5QP,Cornwall & Isles of Scilly PCT,53,86,161,129,199,61.00%
-5QQ,Devon PCT,124,218,176,153,201,76.00%
-5QR,Redcar & Cleveland PCT,31,60,193,147,249,93.20%
-5QT,Isle of Wight National Health Service PCT,12,17,136,79,218,36.20%
-5QV,Hertfordshire PCT,140,213,152,132,173,51.70%
-TAC,Northumberland Care Trust,91,120,132,109,157,31.70%
-TAK,Bexley Care Trust,46,76,165,130,207,65.00%
-TAL,Torbay Care Trust,13,16,128,73,207,27.70%
-TAM,Solihull Care Trust,38,58,151,115,196,51.40%
-TAN,North East Lincolnshire Care Trust Plus,46,57,123,93,159,22.80%
-TAP,Blackburn and Darwen Teaching PCT Plus,54,81,149,119,186,49.30%
+Eng,England,"9,456","14,005",148,146,151,0.48
+5A3,South Gloucestershire PCT,48,74,154,121,193,0.54
+5A4,Havering PCT,15,15,103,57,169,0.03
+5A5,Kingston PCT,8,11,132,66,236,0.32
+5A7,Bromley PCT,58,107,186,152,225,0.86
+5A8,Greenwich Teaching PCT,7,9,124,57,236,0.24
+5A9,Barnet PCT,48,77,162,128,203,0.62
+5AT,Hillingdon PCT,48,59,124,94,160,0.24
+5C1,Enfield PCT,16,29,178,119,256,0.78
+5C2,Barking & Dagenham PCT,42,59,141,107,182,0.41
+5C3,City & Hackney Teaching PCT,44,66,148,115,189,0.48
+5C4,Tower Hamlets PCT,40,65,162,125,206,0.62
+5C5,Newham PCT,105,145,138,117,163,0.38
+5C9,Haringey Teaching PCT,30,44,144,105,194,0.45
+5CN,Herefordshire PCT,27,47,172,127,229,0.72
+5CQ,Milton Keynes PCT,37,77,209,165,261,1.09
+5D7,Newcastle PCT,43,67,156,121,199,0.56
+5D8,North Tyneside PCT,65,94,146,118,178,0.46
+5D9,Hartlepool PCT,13,20,152,93,235,0.52
+5.00E+01,North Tees PCT,36,61,168,129,216,0.68
+5EF,North Lincolnshire PCT,51,67,131,102,167,0.31
+5EM,Nottingham City PCT,89,98,110,90,135,0.10
+5ET,Bassetlaw PCT,26,41,160,115,217,0.60
+5F1,Plymouth Teaching PCT,60,66,111,86,141,0.11
+5F5,Salford PCT,63,103,164,134,198,0.64
+5F7,Stockport PCT,74,108,147,120,177,0.47
+5FE,Portsmouth City Teaching PCT,51,92,181,146,222,0.81
+5FL,Bath & North East Somerset PCT,26,41,160,115,217,0.60
+5GC,Luton PCT,51,85,166,132,205,0.66
+5H1,Hammersmith & Fulham PCT,18,32,175,120,247,0.75
+5H8,Rotherham PCT,58,94,161,130,197,0.61
+5HG,"Ashton, Leigh & Wigan PCT",43,59,137,104,177,0.37
+5HP,Blackpool PCT,36,47,130,95,173,0.30
+5HQ,Bolton PCT,20,28,143,95,207,0.43
+5HX,Ealing PCT,43,68,157,122,200,0.57
+5HY,Hounslow PCT,42,66,157,121,200,0.57
+5J2,Warrington PCT,52,84,163,130,201,0.63
+5J4,Knowsley PCT,49,58,119,90,154,0.19
+5J5,Oldham PCT,56,84,151,120,187,0.51
+5J6,Calderdale PCT,48,88,185,149,228,0.85
+5J9,Darlington PCT,17,24,143,92,213,0.43
+5JE,Barnsley PCT,95,108,114,94,138,0.14
+5JX,Bury PCT,42,67,160,124,203,0.60
+5K3,Swindon PCT,34,51,152,113,200,0.52
+5K5,Brent Teaching PCT,73,91,125,101,154,0.25
+5K6,Harrow PCT,34,51,151,113,199,0.52
+5K7,Camden PCT,21,47,225,165,299,1.25
+5K8,Islington PCT,34,35,104,73,145,0.04
+5K9,Croydon PCT,52,93,177,143,217,0.77
+5KF,Gateshead PCT,66,96,146,118,178,0.46
+5KG,South Tyneside PCT,60,90,150,121,185,0.50
+5KL,Sunderland Teaching PCT,44,64,145,112,186,0.45
+5KM,Middlesbrough PCT,39,67,170,132,216,0.70
+5L1,Southampton City PCT,50,76,153,121,192,0.53
+5L3,Medway PCT,61,68,112,87,142,0.12
+5LA,Kensington & Chelsea PCT,9,23,264,167,396,1.64
+5LC,Westminster PCT,19,36,189,133,262,0.89
+5LD,Lambeth PCT,20,32,157,107,221,0.57
+5LE,Southwark PCT,7,18,253,150,400,1.53
+5LF,Lewisham PCT,33,43,131,94,176,0.31
+5LG,Wandsworth PCT,42,52,125,93,164,0.25
+5LH,Tameside & Glossop PCT,59,105,177,144,214,0.77
+5LQ,Brighton & Hove City PCT,25,39,157,112,215,0.57
+5M1,South Birmingham PCT,53,62,116,89,149,0.16
+5M2,Shropshire County PCT,36,48,135,99,178,0.35
+5M3,Walsall Teaching PCT,85,117,138,114,165,0.38
+5M6,Richmond & Twickenham PCT,5,14,264,144,443,1.64
+5M7,Sutton & Merton PCT,57,92,161,130,198,0.61
+5M8,North Somerset PCT,51,79,154,122,192,0.54
+5MD,Coventry Teaching PCT,59,83,142,113,176,0.42
+5MK,Telford & Wrekin PCT,32,46,143,105,191,0.43
+5MV,Wolverhampton City PCT,57,82,144,114,178,0.44
+5MX,Heart of Birmingham Teaching PCT,77,118,154,127,184,0.54
+5N1,Leeds PCT,171,254,148,131,168,0.48
+5N2,Kirklees PCT,65,93,143,115,175,0.43
+5N3,Wakefield District PCT,98,118,121,100,145,0.21
+5N4,Sheffield PCT,120,175,146,125,169,0.46
+5N5,Doncaster PCT,42,47,113,83,150,0.13
+5N6,Derbyshire County PCT,123,180,146,125,169,0.46
+5N7,Derby City PCT,78,104,133,109,161,0.33
+5N8,Nottinghamshire County Teaching PCT,174,277,159,141,179,0.59
+5N9,Lincolnshire Teaching PCT,210,300,143,127,160,0.43
+5NA,Redbridge PCT,44,72,163,128,205,0.63
+5NC,Waltham Forest PCT,45,52,115,86,150,0.15
+5ND,County Durham PCT,111,141,127,107,150,0.28
+5NE,Cumbria PCT,84,122,146,121,174,0.46
+5NF,North Lancashire PCT,76,101,132,108,161,0.33
+5NG,Central Lancashire PCT,118,168,143,122,166,0.43
+5NH,East Lancashire Teaching PCT,74,115,155,128,187,0.55
+5NJ,Sefton PCT,50,62,124,95,159,0.24
+5NK,Wirral PCT,61,80,131,104,163,0.31
+5NL,Liverpool PCT,72,91,127,102,156,0.27
+5NM,Halton & St Helens PCT,66,81,123,98,153,0.23
+5NN,Western Cheshire PCT,66,87,131,105,162,0.31
+5NP,Central & Eastern Cheshire PCT,134,189,141,122,162,0.41
+5NQ,"Heywood, Middleton & Rochdale PCT",48,96,201,163,245,1.01
+5NR,Trafford PCT,30,46,153,112,204,0.53
+5NT,Manchester PCT,47,70,149,116,188,0.49
+5NV,North Yorkshire & York PCT,152,252,166,146,187,0.66
+5NW,East Riding of Yorkshire PCT,55,87,158,126,194,0.58
+5NX,Hull Teaching PCT,57,74,129,101,162,0.29
+5NY,Bradford & Airedale Teaching PCT,124,223,180,157,205,0.80
+5P1,South East Essex PCT,70,86,123,98,152,0.23
+5P2,Bedfordshire PCT,57,89,156,125,191,0.56
+5P5,Surrey PCT,143,222,155,135,177,0.55
+5P6,West Sussex PCT,113,152,134,114,157,0.34
+5P7,East Sussex Downs & Weald PCT,29,33,114,78,160,0.14
+5P8,Hastings & Rother PCT,33,58,177,135,229,0.77
+5P9,West Kent PCT,116,188,162,139,186,0.62
+5PA,Leicestershire County & Rutland PCT,120,201,167,145,192,0.67
+5PC,Leicester City PCT,123,146,119,100,140,0.19
+5PD,Northamptonshire Teaching PCT,99,163,164,140,191,0.64
+5PE,Dudley PCT,47,61,129,99,166,0.29
+5PF,Sandwell PCT,81,113,139,115,167,0.39
+5PG,Birmingham East & North PCT,78,111,143,118,172,0.43
+5PH,North Staffordshire PCT,45,57,126,96,163,0.26
+5PJ,Stoke on Trent PCT,59,80,136,108,169,0.36
+5PK,South Staffordshire PCT,59,97,164,133,200,0.64
+5PL,Worcestershire PCT,70,90,129,104,159,0.29
+5PM,Warwickshire PCT,71,114,161,133,194,0.61
+5PN,Peterborough PCT,37,60,163,125,210,0.63
+5PP,Cambridgeshire PCT,109,177,163,140,189,0.63
+5PQ,Norfolk PCT,113,190,169,146,194,0.69
+5PR,Great Yarmouth & Waveney PCT,42,60,144,110,186,0.44
+5PT,Suffolk PCT,145,222,153,134,175,0.53
+5PV,West Essex PCT,37,50,134,99,176,0.34
+5PW,North East Essex PCT,45,49,108,80,142,0.08
+5PX,Mid Essex PCT,37,62,167,128,214,0.67
+5PY,South West Essex PCT,78,107,136,112,165,0.37
+5QA,Eastern & Coastal Kent PCT,143,203,142,123,163,0.42
+5QC,Hampshire PCT,148,214,144,125,165,0.44
+5QD,Buckinghamshire PCT,54,89,165,133,204,0.65
+5QE,Oxfordshire PCT,71,122,172,143,206,0.73
+5QF,Berkshire West PCT,46,64,138,106,177,0.38
+5QG,Berkshire East PCT,61,99,162,132,198,0.63
+5QH,Gloucestershire PCT,136,212,156,136,179,0.56
+5QJ,Bristol PCT,78,112,144,118,173,0.44
+5QK,Wiltshire PCT,64,100,155,126,189,0.55
+5QL,Somerset PCT,76,120,158,131,189,0.58
+5QM,Dorset PCT,69,119,173,144,208,0.73
+5QN,Bournemouth & Poole PCT,77,102,132,108,161,0.32
+5QP,Cornwall & Isles of Scilly PCT,53,86,161,129,199,0.61
+5QQ,Devon PCT,124,218,176,153,201,0.76
+5QR,Redcar & Cleveland PCT,31,60,193,147,249,0.93
+5QT,Isle of Wight National Health Service PCT,12,17,136,79,218,0.36
+5QV,Hertfordshire PCT,140,213,152,132,173,0.52
+TAC,Northumberland Care Trust,91,120,132,109,157,0.32
+TAK,Bexley Care Trust,46,76,165,130,207,0.65
+TAL,Torbay Care Trust,13,16,128,73,207,0.28
+TAM,Solihull Care Trust,38,58,151,115,196,0.51
+TAN,North East Lincolnshire Care Trust Plus,46,57,123,93,159,0.23
+TAP,Blackburn and Darwen Teaching PCT Plus,54,81,149,119,186,0.49
