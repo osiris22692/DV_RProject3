@@ -1,0 +1,24 @@
+Column,Column Name,Description,Type
+1,PCT Code,PCT Code,text
+2,PCT Name,PCT Name,text
+3,Type 1 10/11 prev,Prevalence of type 1 diabetes recorded in the National Diabetes Audit 2010-11,float
+4,Type 2 10/11 prev,Prevalence of type 2 diabetes recorded in the National Diabetes Audit 2010-11,float
+5,All 10/11 prev,Prevalence of any diabetes recorded in the National Diabetes Audit 2010-11,float
+6,hba1c,Percentage of eligible patients receiving HbA1c care process,float
+7,bmi,Percentage of eligible patients receiving Body Mass Index care process,float
+8,bp,Percentage of eligible patients receiving Blood Preasure care process,float
+9,albumin,Percentage of eligible patients receiving albumin care process,float
+10,creatinine,Percentage of eligible patients receiving creatinine care process,float
+11,cholesterol,Percentage of eligible patients receiving cholesterol care process,float
+12,eyeexam,Percentage of eligible patients receiving eye exam care process,float
+13,footexam,Percentage of eligible patients receiving foot exam care process,float
+14,smoking,Percentage of eligible patients receiving smoking care process,float
+15,allcareprocesses,Percentage of eligible patients receiving all care processes,float
+16,hba1c<6.5,Percentage of eligible patients achieving HbA1c<6.5,float
+17,hba1c<=7.5,Percentage of eligible patients achieving HbA1c<7.5,float
+18,hba1c<=10,Percentage of eligible patients achieving HbA1c<10,float
+19,chol<4,Percentage of eligible patients achieving cholesterol<4mmol/l,float
+20,chol<5,Percentage of eligible patients achieving cholesterol<5mmol/l,float
+21,bptarget,Percentage of eligible patients achieving Hblood preasure target of <140/80 applied to those patients without recorded eye kidney or vascular disease (EKV-) and blood pressure target <130/80 applied to those patients with recorded eye kidney or vascular disease.,float
+22,bp140/80,Percentage of eligible patients achieving blood preasure 140/80,float
+23,alltargets,"Percentage of eligible patients achieving all Nice recommended targets where patients have achieved HbA1c ?7.5%, cholesterol < 5mmol/l and their relevant blood pressure target.",float

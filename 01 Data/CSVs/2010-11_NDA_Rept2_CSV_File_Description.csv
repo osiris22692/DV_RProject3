@@ -1,0 +1,23 @@
+Complications,,,
+,,,
+Field Position,Field Name,Field Type,Example
+Column 1,PCT Code,3an,5A7
+Column 2,PCT Description,Text,Bromley PCT
+Column 3,Total expected - Complication,Integer,161
+Column 4,Observed - Complication,Integer,262
+Column 5,Standardised ratio,Integer,163
+Column 6,Standardised ratio lower 95% confidence interval,Integer,144
+Column 7,Standardised ratio upper 95% confidence interval,Integer,184
+Column 8,Additional risk of complication among people with diabetes,Percentage (1d.p.),63.20%
+,,,
+Mortality,,,
+,,,
+Field Position,PCT CODE,Eng,5A7
+Column 1,PCT Description,3an,Bromley PCT
+Column 2,PYaR*,Text,"11,111"
+Column 3,Expected deaths,Integer,259
+Column 4,Deaths,Integer,371
+Column 5,˜SMR*,Integer,143
+Column 6,95% Lower Confidence Interval,Integer,129
+Column 7,95% Upper Confidence Interval,Integer,159
+Column 8,Additional risk of mortality among people with diabetes,Percentage (1d.p.),43.3%
