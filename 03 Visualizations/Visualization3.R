@@ -1,0 +1,5 @@
+require("ggplot2")
+require("dplyr")
+dw1 %>% ggplot(aes(x=TIME_IN_HOSPITAL, y=NUM_MEDICATIONS, color=READMITTED)) + geom_point() + facet_wrap(~READMITTED)
+dw2 %>% ggplot(aes(x=AGE, y=meanMeds, color=RACE)) + geom_point()
+dw3 %>% ggplot(aes(x=AGE, y=meanMeds, color=GENDER)) + geom_point()

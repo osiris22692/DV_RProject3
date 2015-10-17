@@ -1,0 +1,46 @@
+##DV Project 3
+
+1) We found a data set (csv file) about Diabetes patients with thousands of rows of data as well as a few other associated data sets (csv files) . We then regiestered our data set type under the PROJECt_2DATA column using the "Register Your Project" link on the class website.
+
+2) We loaded each CSV file into one of our Oracle accounts using a modified version of R_ETL.R.
+
+3) We modified the query found in Titanic Analysis.R by changing the SQL statement and filled in one of our UTEids to build a data frame from our data from the primary Diabetes data set. We continued by adding each additional associated data set to their own dataframes in succession.
+
+```{r}
+source("../01 Data/Data.R", echo = TRUE)
+```
+
+```{r}
+source("../01 Data/Data1.R", echo = TRUE)
+```
+
+```{r}
+source("../01 Data/Data2.R", echo = TRUE)
+```
+
+```{r}
+source("../01 Data/Data3.R", echo = TRUE)
+```
+
+4) We wrangled the original Diabetes data along with the associated health data sets using 3 different data wrangling operations to combine data sets:
+a. Outer Join of Diabetes with Mortality
+b. Inner Join of Diabetes with MI (and Stroke)
+c. Bind Cols of Diabetes with 
+
+```{r}
+source("../02 Data Wrangling/DataWrangling.R", echo = TRUE)
+```
+
+5) From those wrangled sets of data we produced the following 3 plots/visualizations of the associated data sets vs the original data so as to compare the outcomes and treatments of various diabetes patients alongside corresponding data concerning other associated conditions:
+
+
+```{r}
+source("../03 Visualizations/Visualization1.R", echo = TRUE)
+```
+
+```{r}
+source("../03 Visualizations/Visualization2.R", echo = TRUE)
+```
+```{r}
+source("../03 Visualizations/Visualization3.R", echo = TRUE)
+```
