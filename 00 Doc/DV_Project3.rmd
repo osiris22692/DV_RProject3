@@ -56,7 +56,7 @@ As you can see with these graphs, diabetes does correlate to an additional risk 
 source("../03 Visualizations/Visualization2.R", echo = TRUE)
 ```
 
-As you can see with these graphs, diabetes does correlate to an ncrease in risk for MI and stroke, but increasing prevalence of diabetes (all types) does not correlate with an increased risk of stroke nor with MIs.
+As you can see with these graphs, diabetes does correlate to an increase in risk for MI and stroke, but increasing prevalence of diabetes (all types) does not correlate with an increased risk of stroke nor with MIs.
 
 ```{r}
 source("../03 Visualizations/Visualization3.R", echo = TRUE)
