@@ -2,7 +2,7 @@ require(tidyr)
 require(dplyr)
 require(ggplot2)
 
-setwd("~/DataVisualization/DV_RProject3/01 Data/CSVs")
+setwd("~/DataVisualizations/DV_Project3/01 Data/CSVs")
 
 file_path <- "2010-11_NDA_Rept2_Angina.csv"
 

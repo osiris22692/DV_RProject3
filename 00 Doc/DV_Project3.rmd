@@ -11,11 +11,11 @@ source("../01 Data/Data.R", echo = TRUE)
 ```
 
 ```{r}
-source("../01 Data/Data_MI.R", echo = TRUE)
-``
+source("../01 Data/Data_Mortality.R", echo = TRUE)
+```
 
 ```{r}
-source("../01 Data/Data_Mortality.R", echo = TRUE)
+source("../01 Data/Data_MI.R", echo = TRUE)
 ```
 
 ```{r}
@@ -34,6 +34,7 @@ c. Bind Cols of Diabetes with
 ```{r}
 source("../02 Data Wrangling/DataWrangling.R", echo = TRUE)
 ```
+
 ```{r}
 source("../02 Data Wrangling/DataWranglingMIStroke.R", echo = TRUE)
 ```
@@ -44,11 +45,12 @@ source("../02 Data Wrangling/DataWranglingMIStroke.R", echo = TRUE)
 ```{r}
 source("../03 Visualizations/Visualization1.R", echo = TRUE)
 ```
+
 As you can see with this graph, diabetes does cause a additional risk for mortality.  However, increasing prevalence of all diabetes nor type 1 increases this risk.  Increasing the prevalence of type 2 diabetes does increase the risk for death.
+
 ```{r}
 source("../03 Visualizations/Visualization2.R", echo = TRUE)
 ```
+
 As you can see with these graphs, diabetes does increase the risk for MI and stroke, but increasing prevalence of diabetes (all types) does not correlate with and increased risk of stroke nor MIs. 
-```{r}
-source("../03 Visualizations/Visualization3.R", echo = TRUE)
-```
+
