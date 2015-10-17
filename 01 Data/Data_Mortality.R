@@ -13,7 +13,7 @@ names(df) <- gsub("\\.+", "", names(df))
 
 str(df) # Uncomment this and  run just the lines to here to get column types to use for getting the list of measures.
 
-measures <- c("PYaR", "Expecteddeaths", "Deaths", "ÿSMR", "Discount", "X95LowerConfidenceInterval" , "X95UpperConfidenceInterval", "Additionalriskofmortality")
+measures <- c("PYaR", "Expecteddeaths", "Deaths", "ÿSMR", "X95LowerConfidenceInterval" , "X95UpperConfidenceInterval", "Additionalriskofmortality")
 #measures <- NA # Do this if there are no measures.
 
 # Get rid of special characters in each column.

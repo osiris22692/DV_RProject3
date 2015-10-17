@@ -1,5 +1,5 @@
 "PCTCode","PCTDescription","TotalexpectedMI","ObservedMI","Standardisedratio","lower95confidenceinterval","upper95confidenceinterval","Additionalriskofcomplication"
-"Eng","England","9,456","14,005","148","146","151","0.48"
+"Eng","England","9456","14005","148","146","151","0.48"
 "5A3","South Gloucestershire PCT","48","74","154","121","193","0.54"
 "5A4","Havering PCT","15","15","103","57","169","0.03"
 "5A5","Kingston PCT","8","11","132","66","236","0.32"

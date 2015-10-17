@@ -12,7 +12,7 @@ source("../01 Data/Data.R", echo = TRUE)
 
 ```{r}
 source("../01 Data/Data_MI.R", echo = TRUE)
-```
+``
 
 ```{r}
 source("../01 Data/Data_Mortality.R", echo = TRUE)
@@ -27,12 +27,15 @@ source("../01 Data/Data_Angina.R", echo = TRUE)
 ```
 
 4) We wrangled the original Diabetes data along with the associated health data sets using 3 different data wrangling operations to combine data sets:
-a. Outer Join of Diabetes with Mortality
-b. Inner Join of Diabetes with MI (and Stroke)
+a. Inner Join of Diabetes with Mortality
+b. Left Outer Join of Diabetes with MI and Stroke
 c. Bind Cols of Diabetes with 
 
 ```{r}
 source("../02 Data Wrangling/DataWrangling.R", echo = TRUE)
+```
+```{r}
+source("../02 Data Wrangling/DataWranglingMIStroke.R", echo = TRUE)
 ```
 
 5) From those wrangled sets of data we produced the following 3 plots/visualizations of the associated data sets vs the original data so as to compare the outcomes and treatments of various diabetes patients alongside corresponding data concerning other associated conditions:
@@ -41,10 +44,11 @@ source("../02 Data Wrangling/DataWrangling.R", echo = TRUE)
 ```{r}
 source("../03 Visualizations/Visualization1.R", echo = TRUE)
 ```
-
+As you can see with this graph, diabetes does cause a additional risk for mortality.  However, increasing prevalence of all diabetes nor type 1 increases this risk.  Increasing the prevalence of type 2 diabetes does increase the risk for death.
 ```{r}
 source("../03 Visualizations/Visualization2.R", echo = TRUE)
 ```
+As you can see with these graphs, diabetes does increase the risk for MI and stroke, but increasing prevalence of diabetes (all types) does not correlate with and increased risk of stroke nor MIs. 
 ```{r}
 source("../03 Visualizations/Visualization3.R", echo = TRUE)
 ```

@@ -13,7 +13,7 @@ names(df) <- gsub("\\.+", "", names(df))
 
 str(df) # Uncomment this and  run just the lines to here to get column types to use for getting the list of measures.
 
-measures <- c("Type11011prev", "Type21011prev", "All1011prev", "hba1c", "Discount", "bmi" , "bp", "albumin", "creatinine", "cholesterol", "eyeexam", "footexam", "smoking", "allcareprocesses", "hba1c65 ", "hba1c75", "hba1c10", "chol4", "chol5", "bptarget", "bp14080", "alltargets")
+measures <- c("Type11011prev", "Type21011prev", "All1011prev", "hba1c", "bmi" , "bp", "albumin", "creatinine", "cholesterol", "eyeexam", "footexam", "smoking", "allcareprocesses", "hba1c65", "hba1c75", "hba1c10", "chol4", "chol5", "bptarget", "bp14080", "alltargets")
 #measures <- NA # Do this if there are no measures.
 
 # Get rid of special characters in each column.
@@ -23,6 +23,7 @@ for(n in names(df)) {
 }
 
 dimensions <- setdiff(names(df), measures)
+
 
 if( length(measures) > 1 || ! is.na(dimensions)) {
   for(d in dimensions) {
