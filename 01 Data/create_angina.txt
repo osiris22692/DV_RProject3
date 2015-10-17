@@ -1,0 +1,11 @@
+CREATE TABLE NDARept2ANGINA (
+-- Change table_name to the table name you want.
+ PCTCode varchar2(4000),
+ PCTDescription varchar2(4000),
+ TotalexpectedAngina number(38,4),
+ ObservedAngina number(38,4),
+ Standardisedratio number(38,4),
+ lower95confidenceinterval number(38,4),
+ upper95confidenceinterval number(38,4),
+ Additionalriskofangina number(38,4)
+ );
