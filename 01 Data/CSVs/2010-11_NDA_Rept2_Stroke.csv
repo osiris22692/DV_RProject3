@@ -1,7 +1,7 @@
-PCT Code,PCT Description,Total expected - Stroke,Observed - Stroke,Standardised ratio,Standardised ratio lower 95% confidence interval,Standardised ratio upper 95% confidence interval,Additional risk of complication among people with diabetes
+PCT Code,PCT Description,Total expected - Stroke,Observed - Stroke,Standardised ratio,lower 95% confidence interval,upper 95% confidence interval,Additional risk of stroke
 Eng,England,"13,806","17,243",125,123,127,0.25
-5A3,South Gloucestershire PCT,53,74,140,110,176,0.40
-5A4,Havering PCT,15,17,110,64,176,0.10
+5A3,South Gloucestershire PCT,53,74,140,110,176,0.4
+5A4,Havering PCT,15,17,110,64,176,0.1
 5A5,Kingston PCT,6,6,107,39,233,0.07
 5A7,Bromley PCT,59,78,132,104,165,0.32
 5A8,Greenwich Teaching PCT,9,18,198,118,313,0.98
@@ -13,13 +13,13 @@ Eng,England,"13,806","17,243",125,123,127,0.25
 5C4,Tower Hamlets PCT,54,77,142,112,178,0.42
 5C5,Newham PCT,107,97,91,73,110,-0.09
 5C9,Haringey Teaching PCT,46,50,109,81,144,0.09
-5CN,Herefordshire PCT,58,75,130,102,163,0.30
+5CN,Herefordshire PCT,58,75,130,102,163,0.3
 5CQ,Milton Keynes PCT,39,48,124,92,165,0.24
-5D7,Newcastle PCT,78,109,140,115,169,0.40
+5D7,Newcastle PCT,78,109,140,115,169,0.4
 5D8,North Tyneside PCT,103,125,121,101,144,0.21
 5D9,Hartlepool PCT,10,9,89,41,169,-0.11
 5.00E+01,North Tees PCT,36,48,134,99,178,0.35
-5EF,North Lincolnshire PCT,35,42,120,86,162,0.20
+5EF,North Lincolnshire PCT,35,42,120,86,162,0.2
 5EM,Nottingham City PCT,106,114,108,89,130,0.08
 5ET,Bassetlaw PCT,24,22,91,57,138,-0.09
 5F1,Plymouth Teaching PCT,84,112,133,110,160,0.33
@@ -32,7 +32,7 @@ Eng,England,"13,806","17,243",125,123,127,0.25
 5H8,Rotherham PCT,65,82,127,101,158,0.27
 5HG,"Ashton, Leigh & Wigan PCT",65,81,125,99,156,0.25
 5HP,Blackpool PCT,45,76,168,132,210,0.68
-5HQ,Bolton PCT,32,42,130,93,175,0.30
+5HQ,Bolton PCT,32,42,130,93,175,0.3
 5HX,Ealing PCT,72,86,119,95,147,0.19
 5HY,Hounslow PCT,67,73,109,85,137,0.09
 5J2,Warrington PCT,37,60,162,123,208,0.62
@@ -45,9 +45,9 @@ Eng,England,"13,806","17,243",125,123,127,0.25
 5K3,Swindon PCT,46,52,112,84,147,0.12
 5K5,Brent Teaching PCT,79,89,112,90,138,0.12
 5K6,Harrow PCT,36,40,110,79,150,0.11
-5K7,Camden PCT,34,54,160,121,209,0.60
+5K7,Camden PCT,34,54,160,121,209,0.6
 5K8,Islington PCT,48,52,107,80,141,0.07
-5K9,Croydon PCT,80,120,150,124,179,0.50
+5K9,Croydon PCT,80,120,150,124,179,0.5
 5KF,Gateshead PCT,99,106,107,88,129,0.07
 5KG,South Tyneside PCT,52,62,119,91,152,0.19
 5KL,Sunderland Teaching PCT,70,71,102,80,128,0.02
@@ -55,13 +55,13 @@ Eng,England,"13,806","17,243",125,123,127,0.25
 5L1,Southampton City PCT,63,75,118,93,148,0.18
 5L3,Medway PCT,70,79,113,90,141,0.13
 5LA,Kensington & Chelsea PCT,17,28,166,111,241,0.66
-5LC,Westminster PCT,32,51,160,119,210,0.60
+5LC,Westminster PCT,32,51,160,119,210,0.6
 5LD,Lambeth PCT,38,47,122,90,163,0.22
 5LE,Southwark PCT,12,14,118,65,199,0.18
-5LF,Lewisham PCT,55,55,100,76,131,0.00
+5LF,Lewisham PCT,55,55,100,76,131,0
 5LG,Wandsworth PCT,51,68,133,104,169,0.33
 5LH,Tameside & Glossop PCT,66,90,136,109,167,0.36
-5LQ,Brighton & Hove City PCT,49,69,140,109,178,0.40
+5LQ,Brighton & Hove City PCT,49,69,140,109,178,0.4
 5M1,South Birmingham PCT,104,144,139,117,164,0.39
 5M2,Shropshire County PCT,53,60,113,86,145,0.13
 5M3,Walsall Teaching PCT,114,148,129,109,152,0.29
@@ -84,14 +84,14 @@ Eng,England,"13,806","17,243",125,123,127,0.25
 5NA,Redbridge PCT,48,54,112,84,147,0.12
 5NC,Waltham Forest PCT,74,83,113,90,140,0.13
 5ND,County Durham PCT,173,235,136,119,155,0.36
-5NE,Cumbria PCT,117,129,110,92,131,0.10
+5NE,Cumbria PCT,117,129,110,92,131,0.1
 5NF,North Lancashire PCT,112,130,117,97,138,0.17
 5NG,Central Lancashire PCT,149,183,122,105,141,0.22
 5NH,East Lancashire Teaching PCT,89,108,122,100,147,0.22
 5NJ,Sefton PCT,70,67,96,74,122,-0.04
 5NK,Wirral PCT,93,97,105,85,128,0.05
 5NL,Liverpool PCT,85,97,114,92,139,0.14
-5NM,Halton & St Helens PCT,50,65,130,100,166,0.30
+5NM,Halton & St Helens PCT,50,65,130,100,166,0.3
 5NN,Western Cheshire PCT,62,57,93,70,120,-0.07
 5NP,Central & Eastern Cheshire PCT,120,134,112,93,132,0.12
 5NQ,"Heywood, Middleton & Rochdale PCT",68,91,135,109,165,0.35
@@ -110,13 +110,13 @@ Eng,England,"13,806","17,243",125,123,127,0.25
 5P9,West Kent PCT,195,259,133,117,150,0.33
 5PA,Leicestershire County & Rutland PCT,241,288,119,106,134,0.19
 5PC,Leicester City PCT,209,215,103,90,118,0.03
-5PD,Northamptonshire Teaching PCT,148,192,129,112,149,0.30
+5PD,Northamptonshire Teaching PCT,148,192,129,112,149,0.3
 5PE,Dudley PCT,60,68,113,88,144,0.13
 5PF,Sandwell PCT,324,382,118,106,130,0.18
 5PG,Birmingham East & North PCT,127,172,135,116,157,0.36
 5PH,North Staffordshire PCT,71,100,142,115,172,0.42
 5PJ,Stoke on Trent PCT,99,107,108,89,131,0.08
-5PK,South Staffordshire PCT,84,92,110,89,135,0.10
+5PK,South Staffordshire PCT,84,92,110,89,135,0.1
 5PL,Worcestershire PCT,111,121,109,90,130,0.09
 5PM,Warwickshire PCT,116,146,126,107,148,0.26
 5PN,Peterborough PCT,48,73,152,119,191,0.52
@@ -136,18 +136,18 @@ Eng,England,"13,806","17,243",125,123,127,0.25
 5QG,Berkshire East PCT,80,97,121,98,148,0.21
 5QH,Gloucestershire PCT,155,174,112,96,130,0.12
 5QJ,Bristol PCT,87,76,87,68,109,-0.13
-5QK,Wiltshire PCT,136,204,150,130,172,0.50
-5QL,Somerset PCT,158,221,140,122,160,0.40
+5QK,Wiltshire PCT,136,204,150,130,172,0.5
+5QL,Somerset PCT,158,221,140,122,160,0.4
 5QM,Dorset PCT,125,180,144,124,167,0.44
 5QN,Bournemouth & Poole PCT,169,208,123,107,141,0.23
 5QP,Cornwall & Isles of Scilly PCT,69,95,137,111,167,0.37
-5QQ,Devon PCT,184,240,130,114,148,0.30
+5QQ,Devon PCT,184,240,130,114,148,0.3
 5QR,Redcar & Cleveland PCT,39,58,149,113,193,0.49
-5QT,Isle of Wight National Health Service PCT,16,36,220,154,305,1.20
+5QT,Isle of Wight National Health Service PCT,16,36,220,154,305,1.2
 5QV,Hertfordshire PCT,202,257,127,112,143,0.27
 TAC,Northumberland Care Trust,133,185,139,120,161,0.39
 TAK,Bexley Care Trust,57,75,130,103,164,0.31
 TAL,Torbay Care Trust,30,31,103,70,147,0.03
 TAM,Solihull Care Trust,74,86,116,93,143,0.16
-TAN,North East Lincolnshire Care Trust Plus,44,44,100,73,134,0.00
+TAN,North East Lincolnshire Care Trust Plus,44,44,100,73,134,0
 TAP,Blackburn and Darwen Teaching PCT Plus,53,63,119,91,152,0.19

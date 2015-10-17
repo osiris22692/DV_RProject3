@@ -1,4 +1,4 @@
-PCT Code,PCT Description,Total expected - myocardial infarction,Observed - myocardial infarction,Standardised ratio,Standardised ratio lower 95% confidence interval,Standardised ratio upper 95% confidence interval,Additional risk of complication among people with diabetes
+PCT Code,PCT Description,Total expected - MI,Observed - MI,Standardised ratio,lower 95% confidence interval,upper 95% confidence interval,Additional risk of complication
 Eng,England,"9,456","14,005",148,146,151,0.48
 5A3,South Gloucestershire PCT,48,74,154,121,193,0.54
 5A4,Havering PCT,15,15,103,57,169,0.03
@@ -20,18 +20,18 @@ Eng,England,"9,456","14,005",148,146,151,0.48
 5D9,Hartlepool PCT,13,20,152,93,235,0.52
 5.00E+01,North Tees PCT,36,61,168,129,216,0.68
 5EF,North Lincolnshire PCT,51,67,131,102,167,0.31
-5EM,Nottingham City PCT,89,98,110,90,135,0.10
-5ET,Bassetlaw PCT,26,41,160,115,217,0.60
+5EM,Nottingham City PCT,89,98,110,90,135,0.1
+5ET,Bassetlaw PCT,26,41,160,115,217,0.6
 5F1,Plymouth Teaching PCT,60,66,111,86,141,0.11
 5F5,Salford PCT,63,103,164,134,198,0.64
 5F7,Stockport PCT,74,108,147,120,177,0.47
 5FE,Portsmouth City Teaching PCT,51,92,181,146,222,0.81
-5FL,Bath & North East Somerset PCT,26,41,160,115,217,0.60
+5FL,Bath & North East Somerset PCT,26,41,160,115,217,0.6
 5GC,Luton PCT,51,85,166,132,205,0.66
 5H1,Hammersmith & Fulham PCT,18,32,175,120,247,0.75
 5H8,Rotherham PCT,58,94,161,130,197,0.61
 5HG,"Ashton, Leigh & Wigan PCT",43,59,137,104,177,0.37
-5HP,Blackpool PCT,36,47,130,95,173,0.30
+5HP,Blackpool PCT,36,47,130,95,173,0.3
 5HQ,Bolton PCT,20,28,143,95,207,0.43
 5HX,Ealing PCT,43,68,157,122,200,0.57
 5HY,Hounslow PCT,42,66,157,121,200,0.57
@@ -41,7 +41,7 @@ Eng,England,"9,456","14,005",148,146,151,0.48
 5J6,Calderdale PCT,48,88,185,149,228,0.85
 5J9,Darlington PCT,17,24,143,92,213,0.43
 5JE,Barnsley PCT,95,108,114,94,138,0.14
-5JX,Bury PCT,42,67,160,124,203,0.60
+5JX,Bury PCT,42,67,160,124,203,0.6
 5K3,Swindon PCT,34,51,152,113,200,0.52
 5K5,Brent Teaching PCT,73,91,125,101,154,0.25
 5K6,Harrow PCT,34,51,151,113,199,0.52
@@ -49,9 +49,9 @@ Eng,England,"9,456","14,005",148,146,151,0.48
 5K8,Islington PCT,34,35,104,73,145,0.04
 5K9,Croydon PCT,52,93,177,143,217,0.77
 5KF,Gateshead PCT,66,96,146,118,178,0.46
-5KG,South Tyneside PCT,60,90,150,121,185,0.50
+5KG,South Tyneside PCT,60,90,150,121,185,0.5
 5KL,Sunderland Teaching PCT,44,64,145,112,186,0.45
-5KM,Middlesbrough PCT,39,67,170,132,216,0.70
+5KM,Middlesbrough PCT,39,67,170,132,216,0.7
 5L1,Southampton City PCT,50,76,153,121,192,0.53
 5L3,Medway PCT,61,68,112,87,142,0.12
 5LA,Kensington & Chelsea PCT,9,23,264,167,396,1.64
@@ -100,7 +100,7 @@ Eng,England,"9,456","14,005",148,146,151,0.48
 5NV,North Yorkshire & York PCT,152,252,166,146,187,0.66
 5NW,East Riding of Yorkshire PCT,55,87,158,126,194,0.58
 5NX,Hull Teaching PCT,57,74,129,101,162,0.29
-5NY,Bradford & Airedale Teaching PCT,124,223,180,157,205,0.80
+5NY,Bradford & Airedale Teaching PCT,124,223,180,157,205,0.8
 5P1,South East Essex PCT,70,86,123,98,152,0.23
 5P2,Bedfordshire PCT,57,89,156,125,191,0.56
 5P5,Surrey PCT,143,222,155,135,177,0.55
