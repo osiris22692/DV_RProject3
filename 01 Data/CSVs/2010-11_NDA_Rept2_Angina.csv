@@ -1,6 +1,6 @@
-PCT Code,PCT Description,Total expected Angina,Observed Angina,Standardised ratio,Standardised ratio lower 95% confidence interval,Standardised ratio upper 95% confidence interval,Additional risk of complication among people with diabetes
+PCT Code,PCT Description,Total expected Angina,Observed Angina,Standardised ratio,lower 95% confidence interval,upper 95% confidence interval,Additional risk of angina
 Eng,England,"39,554","67,788",171,170,173,0.71
-5A3,South Gloucestershire PCT,217,390,180,163,199,0.80
+5A3,South Gloucestershire PCT,217,390,180,163,199,0.8
 5A4,Havering PCT,40,62,154,118,198,0.54
 5A5,Kingston PCT,25,36,143,100,198,0.43
 5A7,Bromley PCT,161,262,163,144,184,0.63
@@ -13,7 +13,7 @@ Eng,England,"39,554","67,788",171,170,173,0.71
 5C4,Tower Hamlets PCT,77,136,177,149,210,0.77
 5C5,Newham PCT,296,432,146,132,160,0.46
 5C9,Haringey Teaching PCT,78,121,155,129,186,0.55
-5CN,Herefordshire PCT,104,207,200,173,229,1.00
+5CN,Herefordshire PCT,104,207,200,173,229,1
 5CQ,Milton Keynes PCT,182,374,205,185,227,1.05
 5D7,Newcastle PCT,223,428,192,174,211,0.92
 5D8,North Tyneside PCT,371,619,167,154,180,0.67
@@ -22,31 +22,31 @@ Eng,England,"39,554","67,788",171,170,173,0.71
 5EF,North Lincolnshire PCT,248,399,161,145,177,0.61
 5EM,Nottingham City PCT,319,549,172,158,187,0.72
 5ET,Bassetlaw PCT,124,229,185,162,211,0.85
-5F1,Plymouth Teaching PCT,298,475,159,145,174,0.60
-5F5,Salford PCT,386,657,170,158,184,0.70
+5F1,Plymouth Teaching PCT,298,475,159,145,174,0.6
+5F5,Salford PCT,386,657,170,158,184,0.7
 5F7,Stockport PCT,285,528,185,170,202,0.85
 5FE,Portsmouth City Teaching PCT,165,261,159,140,179,0.59
 5FL,Bath & North East Somerset PCT,123,201,164,142,188,0.64
 5GC,Luton PCT,145,272,188,166,212,0.88
-5H1,Hammersmith & Fulham PCT,55,105,190,155,230,0.90
-5H8,Rotherham PCT,323,581,180,166,195,0.80
+5H1,Hammersmith & Fulham PCT,55,105,190,155,230,0.9
+5H8,Rotherham PCT,323,581,180,166,195,0.8
 5HG,"Ashton, Leigh & Wigan PCT",359,590,164,151,178,0.64
-5HP,Blackpool PCT,180,324,180,161,201,0.80
+5HP,Blackpool PCT,180,324,180,161,201,0.8
 5HQ,Bolton PCT,109,221,202,177,231,1.02
 5HX,Ealing PCT,155,287,185,164,208,0.85
-5HY,Hounslow PCT,129,220,170,148,194,0.70
+5HY,Hounslow PCT,129,220,170,148,194,0.7
 5J2,Warrington PCT,221,425,192,174,211,0.92
 5J4,Knowsley PCT,303,495,163,149,178,0.63
 5J5,Oldham PCT,248,451,182,166,200,0.82
 5J6,Calderdale PCT,230,403,175,158,193,0.75
-5J9,Darlington PCT,94,141,150,127,177,0.50
+5J9,Darlington PCT,94,141,150,127,177,0.5
 5JE,Barnsley PCT,462,667,145,134,156,0.45
 5JX,Bury PCT,175,294,168,150,189,0.68
 5K3,Swindon PCT,121,214,176,154,202,0.76
 5K5,Brent Teaching PCT,163,242,148,130,168,0.48
 5K6,Harrow PCT,84,175,208,178,241,1.08
 5K7,Camden PCT,60,98,164,133,199,0.64
-5K8,Islington PCT,87,113,130,107,156,0.30
+5K8,Islington PCT,87,113,130,107,156,0.3
 5K9,Croydon PCT,163,305,187,167,210,0.87
 5KF,Gateshead PCT,249,415,167,151,184,0.67
 5KG,South Tyneside PCT,373,588,157,145,171,0.58
@@ -56,7 +56,7 @@ Eng,England,"39,554","67,788",171,170,173,0.71
 5L3,Medway PCT,228,353,155,139,172,0.55
 5LA,Kensington & Chelsea PCT,27,70,255,199,322,1.55
 5LC,Westminster PCT,58,131,227,190,269,1.27
-5LD,Lambeth PCT,62,93,150,121,183,0.50
+5LD,Lambeth PCT,62,93,150,121,183,0.5
 5LE,Southwark PCT,22,49,224,166,296,1.24
 5LF,Lewisham PCT,83,137,165,138,195,0.65
 5LG,Wandsworth PCT,112,164,147,125,171,0.47
@@ -65,14 +65,14 @@ Eng,England,"39,554","67,788",171,170,173,0.71
 5M1,South Birmingham PCT,253,428,169,154,186,0.69
 5M2,Shropshire County PCT,116,181,156,134,181,0.56
 5M3,Walsall Teaching PCT,390,656,168,155,181,0.68
-5M6,Richmond & Twickenham PCT,12,28,230,153,333,1.30
+5M6,Richmond & Twickenham PCT,12,28,230,153,333,1.3
 5M7,Sutton & Merton PCT,144,275,191,169,214,0.91
-5M8,North Somerset PCT,190,361,190,171,211,0.90
-5MD,Coventry Teaching PCT,259,414,160,145,176,0.60
+5M8,North Somerset PCT,190,361,190,171,211,0.9
+5MD,Coventry Teaching PCT,259,414,160,145,176,0.6
 5MK,Telford & Wrekin PCT,113,204,181,157,208,0.81
-5MV,Wolverhampton City PCT,266,425,160,145,175,0.60
+5MV,Wolverhampton City PCT,266,425,160,145,175,0.6
 5MX,Heart of Birmingham Teaching PCT,359,589,164,151,178,0.64
-5N1,Leeds PCT,611,"1,101",180,170,191,0.80
+5N1,Leeds PCT,611,"1,101",180,170,191,0.8
 5N2,Kirklees PCT,313,548,175,161,191,0.75
 5N3,Wakefield District PCT,356,548,154,141,167,0.54
 5N4,Sheffield PCT,527,889,169,158,180,0.69
@@ -91,7 +91,7 @@ Eng,England,"39,554","67,788",171,170,173,0.71
 5NJ,Sefton PCT,299,523,175,160,191,0.75
 5NK,Wirral PCT,255,403,158,143,174,0.58
 5NL,Liverpool PCT,510,784,154,143,165,0.54
-5NM,Halton & St Helens PCT,328,524,160,146,174,0.60
+5NM,Halton & St Helens PCT,328,524,160,146,174,0.6
 5NN,Western Cheshire PCT,230,374,163,147,180,0.63
 5NP,Central & Eastern Cheshire PCT,444,774,174,162,187,0.74
 5NQ,"Heywood, Middleton & Rochdale PCT",266,496,187,171,204,0.87
@@ -120,9 +120,9 @@ Eng,England,"39,554","67,788",171,170,173,0.71
 5PL,Worcestershire PCT,421,779,185,172,198,0.85
 5PM,Warwickshire PCT,321,511,159,146,174,0.59
 5PN,Peterborough PCT,202,611,303,280,328,2.03
-5PP,Cambridgeshire PCT,454,907,200,187,213,1.00
+5PP,Cambridgeshire PCT,454,907,200,187,213,1
 5PQ,Norfolk PCT,451,783,174,162,186,0.74
-5PR,Great Yarmouth & Waveney PCT,212,360,170,153,188,0.70
+5PR,Great Yarmouth & Waveney PCT,212,360,170,153,188,0.7
 5PT,Suffolk PCT,455,751,165,153,177,0.65
 5PV,West Essex PCT,151,234,155,135,176,0.55
 5PW,North East Essex PCT,187,310,166,148,185,0.66
@@ -135,7 +135,7 @@ Eng,England,"39,554","67,788",171,170,173,0.71
 5QF,Berkshire West PCT,157,270,172,152,194,0.72
 5QG,Berkshire East PCT,208,408,196,177,216,0.96
 5QH,Gloucestershire PCT,436,753,173,161,186,0.73
-5QJ,Bristol PCT,326,554,170,156,185,0.70
+5QJ,Bristol PCT,326,554,170,156,185,0.7
 5QK,Wiltshire PCT,274,489,179,163,195,0.79
 5QL,Somerset PCT,424,754,178,165,191,0.78
 5QM,Dorset PCT,244,434,178,161,195,0.78
@@ -151,5 +151,3 @@ TAL,Torbay Care Trust,45,70,157,122,199,0.57
 TAM,Solihull Care Trust,149,271,182,161,205,0.82
 TAN,North East Lincolnshire Care Trust Plus,199,316,159,142,177,0.59
 TAP,Blackburn and Darwen Teaching PCT Plus,338,503,149,136,162,0.49
-,,,,,,,
-,,,,,,,
